@@ -2,10 +2,6 @@
   "typescript.validate.enable": false,
   "eslint.enable": true,
   "eslint.validate": [
-		"javascript",
-		{
-			"language": "vue",
-			"autoFix": false
-		}
+		"javascript"
 	],
 }
